@@ -1,0 +1,9 @@
+use_frameworks!
+platform :ios, '10.0'
+
+target 'ZGHCustomButtonDemo' do
+ # Masonry约束
+ pod 'Masonry'
+
+end
+
